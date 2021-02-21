@@ -1,1 +1,1 @@
-* Building directory app
+Building directory app
